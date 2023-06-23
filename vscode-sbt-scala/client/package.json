@@ -46,7 +46,7 @@
   "main": "./out/src/extension",
   "scripts": {},
   "dependencies": {
-    "vscode-languageclient": "^5.2.1"
+    "vscode-languageclient": "^8.1.0"
   },
   "devDependencies": {
     "@types/vscode": "^1.32.0"
